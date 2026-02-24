@@ -1,0 +1,10 @@
+nav,
+img {
+    display: none;
+}
+
+section {
+    display: block;
+    page-break-inside: avoid;
+    margin-bottom: 20px;
+}
